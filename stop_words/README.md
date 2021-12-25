@@ -1,5 +1,5 @@
 # 19stop_words
-なんかある気がするのだが、ストップワードリストを作る
+テキストマイングにおいて除外したいワードリストを作成する
 
 ## 地方
 - https://www.jma.go.jp/jma/kishou/know/yougo_hp/tiikimei.html
