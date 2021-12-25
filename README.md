@@ -3,8 +3,9 @@
 - 自然言語処理の教科書から最近の研究まで触れる
 
 ## 目標
-- 使う予定があるSVM,Word2Vec,fasttext,BERTを使った分析を行う
+- 使う予定があるSVM,Word2Vec,fasttextの理論の把握および実装を行う
 - 文献に書かれていないことまで把握する（行間まで読む）
+- （追加で必要に応じて最新の研究文献などを調査しまとめる）
 
 ## 基礎理論
 ### NLP基礎
@@ -13,7 +14,7 @@
 - [NLP前処理まとめ（外部）](http://yukinoi.hatenablog.com/entry/2018/05/29/120000)
 - [前処理、正規表現と名詞抽出](https://github.com/matsuda-hiromu/NLP/blob/master/pre_preprocess.md)
 ### SVM/Logistic
-- [3基本中の基本、SVM理論](https://github.com/matsuda-hiromu/NLP/blob/master/3SVM.md)
+- [3SVM理論](https://github.com/matsuda-hiromu/NLP/blob/master/3SVM.md)
 
 ### Word2Vec
 - [4単語の分散表現理論](https://github.com/matsuda-hiromu/NLP/blob/master/4word2vec.md)
