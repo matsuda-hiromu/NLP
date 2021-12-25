@@ -14,10 +14,9 @@
 - [前処理、正規表現と名詞抽出](https://github.com/matsuda-hiromu/NLP/blob/master/pre_preprocess.md)
 ### SVM/Logistic
 - [3基本中の基本、SVM理論](https://github.com/matsuda-hiromu/NLP/blob/master/3SVM.md)
-- [極性分析をやってみる（別のリポジトリー）](https://github.com/matsuda-hiromu/04polarity_SVM)
 
 ### Word2Vec
-- [4単語の分散表現理論](https://github.com/matsuda-hiromu/11NLP_study/blob/master/4word2vec.md)
+- [4単語の分散表現理論](https://github.com/matsuda-hiromu/NLP/blob/master/4word2vec.md)
 - [5分散表現の応用例](https://github.com/matsuda-hiromu/NLP/blob/master/5word2vec_paper.md)
 
 ### fasttext
@@ -37,12 +36,12 @@
 - [不均衡データに対するSVM](https://github.com/matsuda-hiromu/NLP/tree/master/SVM)
 
 ### 3.fasttext単語の演算・テキスト分類
-- [単語の演算・テキスト分類](https://github.com/matuda-hiromu/NLP/tree/master/Fastext)
+- [単語の演算・テキスト分類](https://github.com/matsuda-hiromu/NLP/tree/main/Fastext)
 
 
 ### 付録
 - [テキスト分類_試し例](https://github.com/matsuda-hiromu/NLP/tree/master/labeling)
-- [ストップワード作成](https://github.com/matsuda-hiromu/NLP/stop_words)
+- [ストップワード作成](https://github.com/matsuda-hiromu/NLP/tree/main/stop_words)
 - Topic Modelによる分類→[プログラム](https://github.com/matsuda-hiromu/NLP/blob/master/topic.py)
 - Apriori algorithmによる共起ワードの抽出→[プログラム](https://github.com/matsuda-hiromu/NLP/blob/master/busket.py)
 - **日本語の文章をGoogle翻訳にかけて英語にし、、それを機械学習に取り込んだあとで、日本語に戻す手法もある**
@@ -77,6 +76,7 @@
 ### 文章自動生成
 - [応用例：文章自動生成](http://catindog.hatenablog.com/entry/2017/05/26/224530)
 - [関連する状態遷移モデルまとめ論文](https://www.jstage.jst.go.jp/article/jasmin/2017f/0/2017f_22/_pdf)
+- [rinna社の取り組み](https://prtimes.jp/main/html/rd/p/000000009.000070041.html)
 
 ### 自動要約
 - [Skip-Thought Vectors](http://ksksksks2.hatenadiary.jp/entry/20160424/1461494269)
@@ -84,6 +84,7 @@
 - [簡易要約](http://www.sigwi2.org/wp-content/uploads/2017/12/WI2-2016-26.pdf)
 - [中間要約](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P7-4.pdf)
 - [おまけ：論文要約](http://anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P3-1.pdf)
+- [BERT登場後の自動要約](https://qiita.com/siida36/items/4c0dbaa07c456a9fadd0#14-bert%E3%81%AE%E7%99%BB%E5%A0%B4%E3%81%9D%E3%81%97%E3%81%A6%E6%8A%BD%E5%87%BA%E5%9E%8B%E8%A6%81%E7%B4%84%E3%81%AE%E5%86%8D%E6%B5%81%E8%A1%8C-2019)
 
 ### TopicModel
 - [対話型トピックモデルライブラリーpyLDAvis](https://nbviewer.jupyter.org/github/bmabey/pyLDAvis/blob/master/notebooks/pyLDAvis_overview.ipynb)
