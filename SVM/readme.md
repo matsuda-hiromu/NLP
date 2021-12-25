@@ -1,6 +1,6 @@
 ## 問題状況
 - 事件について書かれているWebサイトを検知したい
-- そこで、タグ付きニュースサイトである[Livedoornewsレピングしたものを](https://github.com/dialectic4th/03scraping_challenge/tree/master/livedoor-news)、学習データとして使う
+- そこで、タグ付きニュースサイトである[Livedoornewsスクレピングしたものを](https://github.com/matsuda-hiromu/NLP/tree/master/livedoor-news)、学習データとして使う
 
 ## データの状況
 - タグとして、「国内の事件」、「海外の事件」があるのでこれを正解ラベルとする
