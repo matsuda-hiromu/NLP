@@ -109,4 +109,8 @@
 - [論文：分散表現の次元数について](https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding)
 - [自然言語処理におけるNNの歴史](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
 - [Word2vecの逐次学習（Yahoo OSSライブラリー）](https://techblog.yahoo.co.jp/oss/yskip/)
-- [sentence pice](htps://www.smartbowwow.com/2019/02/sentencepiecepython.html)
+- [sentence picies](htps://www.smartbowwow.com/2019/02/sentencepiecepython.html)
+
+
+
+
