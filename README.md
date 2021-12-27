@@ -96,6 +96,9 @@
 
 ### オープンソース日本語NLPライブラリ
 - [リクルートGINZA](https://www.recruit.co.jp/newsroom/2019/0402_18331.html)
+
+### 文章校正
+- [textlint@SMARTHR](https://shanaiho.smarthr.co.jp/n/n881866630eda)
 <br>
 <br>
 <br>
