@@ -34,7 +34,7 @@
 
 ## 結果
 - [全結果](http://nbviewer.jupyter.org/github/dialectic4th/11NLP_study/blob/master/Fastext/test_cheak.ipynb)
-- 全体として7割り程度当たっている
+- 全体として7割程度当たっている
 - 例えば、4行目は外れているが、記事を見ると十分妥当(正解ラベルはビューティであるが記事内容は恋愛と言ってよい)
 - 12行目は迷っているor複数だと考えているが、当たっている（notebook参照）
 - 意味的に内包するものは、判定ができない（アメリカ⊂海外総合)
